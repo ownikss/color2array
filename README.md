@@ -1,6 +1,8 @@
 # color2Array
 
-It's a very simple package which convert js colors to numbers array (`[r, g, b, a]`).
+It's a very simple package which convert js colors to numbers array.
+
+`red -> [255, 0, 0, 1]`
 
 **[Supported colors](http://facebook.github.io/react-native/docs/colors)**
 
