@@ -11,7 +11,6 @@ export default function jsColorToArray(color /* : ColorCartage | string */) /* :
   if (Array.isArray(color)) {
     return color;
   }
-  console.log('here');
   if (colors[color]) {
     return jsColorToArray(colors[color]);
   }
